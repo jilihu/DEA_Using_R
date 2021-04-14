@@ -102,7 +102,7 @@ P & = \sqrt {\frac{D_k^{t}(x^{t+1},y^{t+1})}{D_k^{t+1}(x^{t+1},y^{t+1})}
 \end{split}
 $$
 
-This indicates that about 46% of the unit's improved perforance is due to the general progress of technology or improving operating conditions (rising tide effect).
+This indicates that about 46% of the unit's improved performance is due to the general progress of technology or improving operating conditions (rising tide effect).
 
 The Malmquist Productivity Index would be the geometric means of the ratios for the distance from each frontier to the respective points.  
 
